@@ -1,5 +1,5 @@
-# Mark-1-Smart-Home-Lighting-System
-📌 Project Description – Mark 1: Smart Home Lighting System
+# Smart-Home-Lighting-System
+📌 Project Description – Smart Home Lighting System
 ✅ Simulates an embedded smart lighting system using terminal commands (UART-style interface)
 
 💡 Controls multiple virtual room lights (ON/OFF/TIMER) with real-time behavior
